@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Richa Namballa
+title_separator: "|"
 email: richa.namballa@nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -22,16 +23,18 @@ description: >- # this means to ignore newlines until "baseurl:"
 # twitter_username:
 github_username: richa-namballa
 minimal_mistakes_skin: contrast
-search: false
+search: true
+
+repository: richa-namballa/richa-namballa.github.io
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -61,31 +64,26 @@ author:
   name   : "Richa Namballa"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Music Technology Graduate Student. Audio Engineer. Data Scientist."
+  location : "New York, NY, USA"
   links:
-    - label: "richa-namballa.github.io"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+      url: "https://richa-namballa.github.io"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:richa.namballa@nyu.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/richa-namballa"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/richa-namballa"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:richa.namballa@nyu.edu"
 
 defaults:
   # _posts
@@ -95,10 +93,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
@@ -106,10 +104,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
