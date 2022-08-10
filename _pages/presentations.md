@@ -1,6 +1,6 @@
 ---
 title: "Presentations"
 permalink: /presentations/
-layout: presentations
+layout: single
 author_profile: true
 ---
