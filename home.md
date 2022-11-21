@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-hidden: true
+hidden: false
 ---
 
 Welcome to my website!
