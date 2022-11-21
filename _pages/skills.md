@@ -5,7 +5,7 @@ permalink: /skills/
 author_profile: true
 ---
 
-## Skills
+## Technical Skills
 
 - **Programming**: Python, Java, Max/MSP, R, MATLAB, SQL, XML/HTML
 - **Packages**: NumPy, pandas, TensorFlow Keras, librosa, PsychoPy, Lab Streaming Layer
@@ -21,4 +21,4 @@ author_profile: true
 |----------|-------------|
 | English  | Native      |
 | Spanish  | Proficient  |
-| Hindi    | Proficiient |
+| Hindi    | Proficient  |
