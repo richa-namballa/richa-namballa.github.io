@@ -16,10 +16,7 @@
 title: Richa Namballa
 title_separator: "|"
 email: richa.namballa@nyu.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Professional Portfolio
 # twitter_username:
 github_username: richa-namballa
 minimal_mistakes_skin: contrast
@@ -68,6 +65,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:richa.namballa@nyu.edu"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/richanamballa/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/richa-namballa"
@@ -80,6 +80,9 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:richa.namballa@nyu.edu"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/richanamballa/"
 
 defaults:
   # _pages
