@@ -5,11 +5,11 @@ layout: single
 author_profile: true
 ---
 
-- [_Trust the Computer_](https://richa-namballa.github.io/portfolio/#trust-the-computer)
-- [_Tonal Theory 0.99... (ft. Ajax)_](https://richa-namballa.github.io/portfolio/#tonal-theory-099-ft-ajax)
-- [_In the Morning, in the Evening_](https://richa-namballa.github.io/portfolio/#in-the-morning-in-the-evening)
-- [_Big Left Hand_](https://richa-namballa.github.io/portfolio/#big-left-hand)
-- [_I Need Somebody_](https://richa-namballa.github.io/portfolio/#i-need-somebody)
+- [Trust the Computer](https://richa-namballa.github.io/portfolio/#trust-the-computer)
+- [Tonal Theory 0.99... (ft. Ajax)](https://richa-namballa.github.io/portfolio/#tonal-theory-099-ft-ajax)
+- [In the Morning, in the Evening](https://richa-namballa.github.io/portfolio/#in-the-morning-in-the-evening)
+- [Big Left Hand](https://richa-namballa.github.io/portfolio/#big-left-hand)
+- [I Need Somebody](https://richa-namballa.github.io/portfolio/#i-need-somebody)
 
 ---
 
