@@ -1,7 +1,12 @@
 ---
+title: "Home"
 layout: single
 author_profile: true
 permalink: /
+excerpt: "Data Scientist and Audio Engineer based in New York City."
+header:
+  overlay_image: /assets/images/wsq-park.jpg
+  overlay_filter: 0.5
 ---
 
 Welcome to my website!
@@ -12,9 +17,3 @@ Welcome to my website!
 - **University of California, Berkeley** – Berkeley, CA
   Bachelor of Arts in **Statistics**
   Bachelor of Science in **Business Administration** from the Haas School of Business
-
-## Skills
-- **Programming**: Python, Java, Max/MSP, R, MATLAB, SQL, Git
-- **Packages**: NumPy, pandas, TensorFlow Keras, librosa, PsychoPy, Lab Streaming Layer
-- **Digital Audio Workstations**: Avid ProTools, Logic Pro X
-- **Languages**: English (Native), Spanish (Proficient), Hindi (Proficient)
