@@ -13,7 +13,7 @@ Welcome to my website! See my recent research and work under [**Publications**](
 
 ## Education
 - **New York University** – New York, NY
-  Master of Music in **Music Technology**
+  - Master of Music in **Music Technology**
 - **University of California, Berkeley** – Berkeley, CA
-  Bachelor of Arts in **Statistics**
-  Bachelor of Science in **Business Administration** from the Haas School of Business
+  - Bachelor of Arts in **Statistics**
+  - Bachelor of Science in **Business Administration** from the Haas School of Business
