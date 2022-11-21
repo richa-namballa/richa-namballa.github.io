@@ -81,7 +81,7 @@ footer:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:richa.namballa@nyu.edu"
     - label: "LinkedIn"
-      icon: "fa fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/richanamballa/"
 
 defaults:

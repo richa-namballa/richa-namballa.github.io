@@ -5,6 +5,14 @@ layout: single
 author_profile: true
 ---
 
+- [_Trust the Computer_](https://richa-namballa.github.io/portfolio/#trust-the-computer)
+- [_Tonal Theory 0.99... (ft. Ajax)_](https://richa-namballa.github.io/portfolio/#tonal-theory-099-ft-ajax)
+- [_In the Morning, in the Evening_](https://richa-namballa.github.io/portfolio/#in-the-morning-in-the-evening)
+- [_Big Left Hand_](https://richa-namballa.github.io/portfolio/#big-left-hand)
+- [_I Need Somebody_](https://richa-namballa.github.io/portfolio/#i-need-somebody)
+
+---
+
 ##  _Trust the Computer_
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1367988541&color=%23ff0a00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/richanamballa" title="Richa Namballa" target="_blank" style="color: #cccccc; text-decoration: none;">Richa Namballa</a> · <a href="https://soundcloud.com/richanamballa/trust-the-computer" title="Trust The Computer" target="_blank" style="color: #cccccc; text-decoration: none;">Trust The Computer</a></div>
 <br>
