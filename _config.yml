@@ -16,7 +16,7 @@
 title: Richa Namballa
 title_separator: "|"
 email: richa.namballa@nyu.edu
-description: Professional Portfolio
+description: Professional Website
 # twitter_username:
 github_username: richa-namballa
 minimal_mistakes_skin: contrast
@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Richa Namballa"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Music Technology Graduate Student. Research Assistant. Audio Engineer. Data Scientist."
+  bio    : "PhD Student. Audio Engineer. Data Scientist."
   location : "New York, NY, USA"
   links:
     - label: "Website"
