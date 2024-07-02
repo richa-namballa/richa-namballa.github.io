@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5
 ---
 
-Welcome to my website! See my recent research and work under [**Publications**](https://richa-namballa.github.io/publications/).
+Welcome to my website! See my recent work under [**Research**](/research/).
 
 ## Education
 - **New York University** – New York, NY
