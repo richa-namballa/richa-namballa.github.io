@@ -8,7 +8,7 @@ author_profile: true
 ## Technical Skills
 
 - **Programming**: Python, Java, Max/MSP, R, MATLAB, SQL, XML/HTML
-- **Packages**: NumPy, pandas, TensorFlow Keras, librosa, PsychoPy, Lab Streaming Layer
+- **Packages**: NumPy, pandas, TensorFlow/Keras, PyTorch, librosa, PsychoPy, Lab Streaming Layer
 - **Platforms**: Windows, MacOS, Linux, Raspbian OS
 - **Software & Tools**: Git, LaTeX, Microsoft Office, Adobe CC
 - **Digital Audio Workstations**: Avid ProTools, Logic Pro X
