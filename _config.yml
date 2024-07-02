@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Richa Namballa"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD Student. Audio Engineer. Data Scientist."
+  bio    : "PhD Student"
   location : "New York, NY, USA"
   links:
     - label: "Website"
@@ -92,3 +92,6 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+lunr:
+  search_within_pages: true

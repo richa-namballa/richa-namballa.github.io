@@ -5,7 +5,10 @@ layout: single
 author_profile: true
 ---
 
-- [Trust the Computer](https://richa-namballa.github.io/portfolio/#trust-the-computer)
+This page is under construction.
+{: .notice--info}
+
+<!-- - [Trust the Computer](https://richa-namballa.github.io/portfolio/#trust-the-computer)
 - [Tonal Theory 0.99... (ft. Ajax)](https://richa-namballa.github.io/portfolio/#tonal-theory-099-ft-ajax)
 
 ---
@@ -25,6 +28,7 @@ author_profile: true
 **Description**: This playful jazz piece features a trombone solo culminating with a surprise feature at the end. It was composed during the Fall 2021 Graduate Review of Tonal Theory I course.
 
 **Contribution**: Composition, Recording, Trombone Performance
-
+ -->
 ---
 **Disclaimer:** All recordings and productions are for educational purposes only, and the material contained in them should not be used for any commercial purpose without the express permission of the copyright holders.
+{: .notice--warning}
