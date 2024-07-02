@@ -13,7 +13,7 @@ Welcome to my website! See my recent work under [**Research**](/research/).
 
 ## Education
 - **New York University** – New York, NY
-  - PhD in **Music Technology**
+  - PhD in **Music Technology** -- Expected May 2028
   - Master of Music in **Music Technology**
 - **University of California, Berkeley** – Berkeley, CA
   - Bachelor of Arts in **Statistics**
