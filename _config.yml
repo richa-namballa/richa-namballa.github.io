@@ -17,7 +17,6 @@ title: Richa Namballa
 title_separator: "|"
 email: richa.namballa@nyu.edu
 description: Professional Website
-# twitter_username:
 github_username: richa-namballa
 minimal_mistakes_skin: contrast
 search: true
@@ -60,29 +59,48 @@ author:
   location : "New York, NY, USA"
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "fa-solid fa-globe"
       url: "https://richa-namballa.github.io"
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fa-solid fa-envelope"
       url: "mailto:richa.namballa@nyu.edu"
+    - label: "Google Scholar"
+      icon: fa-solid fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=S3W3Ql0AAAAJ&hl=en"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/richanamballa/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/richa-namballa"
+    - label: "University Profile"
+      icon: "fa-solid fa-building-columns"
+      url: "https://steinhardt.nyu.edu/people/richa-namballa"
+
+collections:
+  papers:
+    output: false
+  abstracts:
+    output: false
+  patents:
+    output: false
+  talks:
+    output: false
 
 footer:
   links:
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:richa.namballa@nyu.edu"
+    - label: "Google Scholar"
+      icon: fa-solid fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=S3W3Ql0AAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/richanamballa/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/richa-namballa"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:richa.namballa@nyu.edu"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/richanamballa/"
 
 defaults:
   # _pages
