@@ -1,9 +1,9 @@
 ---
 title: "Demos"
-layout: single
+layout: collection
+collection: demos
+entries_layout: grid
 permalink: /demos/
 author_profile: true
 classes: wide
 ---
-
-* [Musical Source Separation of Brazilian Percussion](https://richa-namballa.github.io/mss-demo/)
