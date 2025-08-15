@@ -3,7 +3,7 @@ title: "Richa Namballa"
 layout: single
 author_profile: true
 permalink: /
-excerpt: "PhD student based in New York City."
+excerpt: "PhD candidate based in New York City."
 classes: wide
 header:
   overlay_image: /assets/images/wsq-park.jpg

@@ -55,7 +55,7 @@ plugins:
 author:
   name   : "Richa Namballa"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD Student"
+  bio    : "PhD Candidate"
   location : "New York, NY, USA"
   links:
     - label: "Website"
