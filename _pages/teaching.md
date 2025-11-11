@@ -9,7 +9,7 @@ classes: wide
 **Adjunct Instructor**<br>
 MPATE-GE 2598<br>
 Fundamentals of Digital Signal Theory Lab<br>
-Spring 2025, Fall 2024<br>
+Fall 2025, Spring 2025, Fall 2024<br>
 New York University
 
 **Teaching Assistant**<br>

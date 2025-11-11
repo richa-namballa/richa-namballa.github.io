@@ -10,9 +10,7 @@ header:
   overlay_filter: 0.5
 ---
 
-Welcome to my website!
-
-Please see my recent work under [**Research**](/research/) and links to my demo pages under [**Demos**](/demos/).
+**TL;DR** My name is Richa and I am currently a Ph.D. candidate at the Music and Audio Research Laboratory (MARL) at NYU. My main research interests include: **source separation**, **audio restoration**, **underrepresented music**, **accessibility**, and **ethics**.
 
 ## Education
 - **New York University** – New York, NY
@@ -25,3 +23,16 @@ Please see my recent work under [**Research**](/research/) and links to my demo 
 - **University of California, Berkeley** – Berkeley, CA
   - Bachelor of Arts in **Statistics**
   - Bachelor of Science in **Business Administration** from the Haas School of Business
+
+## Work Experience
+- **New York University** -- New York, NY
+  - Adjunct Faculty (September 2024 -- Present)
+  - Research Assistant (October 2021 to May 2023)
+- **The McKittrick Hotel** -- New York, NY
+  - Audio Engineer (August 2022 to January 2025)
+- **SAP Ariba** -- Palo Alto, CA
+  - Senior Data Scientist (April 2021 to August 2021)
+  - Data Scientist (July 2019 to March 2021)
+- **SAP Labs** -- Palo Alto, CA
+  - Data Scientist (July 2017 to July 2019)
+  - Associate Data Scientist (July 2016 to July 2017)
