@@ -16,18 +16,20 @@ header:
 - **New York University** – New York, NY
   - Doctor of Philosophy in **Music Technology** -- Expected May 2028
     <br>Advisor: Dr. Magdalena Fuentes
-    <br>Mentor: Dr. Brian McFee
+    <br>Co-Advisor: Dr. Brian McFee
   - Master of Music in **Music Technology**
-    <br> Thesis Advisor: Dr. Brian McFee
-    <br> Research Supervisor: Dr. Pablo Ripollés
+    <br>Thesis Advisor: Dr. Brian McFee
+    <br>Research Supervisor: Dr. Pablo Ripollés
 - **University of California, Berkeley** – Berkeley, CA
   - Bachelor of Arts in **Statistics**
   - Bachelor of Science in **Business Administration** from the Haas School of Business
 
 ## Work Experience
 - **New York University** -- New York, NY
-  - Adjunct Faculty (September 2024 -- Present)
+  - Adjunct Faculty (September 2024 to Present)
   - Research Assistant (October 2021 to May 2023)
+- **Deezer** -- Paris, FR
+  - AI Music Detection Research Intern (May 2026 to August 2026)
 - **The McKittrick Hotel** -- New York, NY
   - Audio Engineer (August 2022 to January 2025)
 - **SAP Ariba** -- Palo Alto, CA
