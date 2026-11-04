@@ -3,4 +3,5 @@ title: "Do Music Source Separation Models Preserve Spatial Information in Binaur
 authors: "R. Namballa, A. Roginska, and M. Fuentes"
 date: 2025-09-24
 journal: "Proceedings of the 26th International Society for Music Information Retrieval Conference"
+link: https://zenodo.org/records/17811455
 ---
