@@ -24,5 +24,11 @@ classes: wide
 | English    | Native      |
 | Spanish    | Proficient  |
 | Hindi      | Proficient  |
+
+| Languages I'm Learning   |
+|------------|-------------|
+| French     | A1          |
+| Korean     | Beginner    |
+| Japanese   | Beginner    |
 | Portuguese | Beginner    |
 | German     | Beginner    |

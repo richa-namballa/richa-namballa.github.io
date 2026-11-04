@@ -9,6 +9,15 @@ toc_label: RESEARCH
 toc_sticky: true
 ---
 
+## Datasets
+
+{% assign sorted_datasets = site.datasets | sort: 'date' | reverse %}
+{% for pub in sorted_datasets %}
+- **{{ pub.title }}** ({{ pub.date | date: "%Y" }}) [<i class="fas fa-external-link-alt"></i>]({{ pub.link }})
+  <br> {{ pub.description }}
+{% endfor %}
+
+
 ## Papers
 
 {% assign sorted_papers = site.papers | sort: 'date' | reverse %}

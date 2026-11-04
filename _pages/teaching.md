@@ -6,20 +6,20 @@ author_profile: true
 classes: wide
 ---
 
-**Adjunct Instructor**<br>
+**Adjunct Faculty**<br>
 MPATE-GE 2598<br>
 Fundamentals of Digital Signal Theory Lab<br>
-Fall 2026, Fall 2025, Spring 2025, Fall 2024<br>
+FA26, FA25, SP25, FA24<br>
 New York University
 
 **Teaching Assistant**<br>
 MPATE-GE 2039 / DM-GY 9103<br>
 Deep Learning for Media<br>
-Spring 2024<br>
+SP24<br>
 New York University
 
 **Reader**<br>
 STAT-158<br>
 The Design and Analysis of Experiments<br>
-Spring 2016<br>
+SP16<br>
 University of California, Berkeley<br>

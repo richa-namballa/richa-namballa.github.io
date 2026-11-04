@@ -5,9 +5,9 @@ main:
     url: /demos/
   - title: "Teaching"
     url: /teaching/
-  - title: "Portfolio"
-    url: /portfolio/
   - title: "Skills"
     url: /skills/
   - title: "About"
     url: /about/
+  - title: "Misc"
+    url: /potpourri/
